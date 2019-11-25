@@ -5,10 +5,10 @@
 Para correr este programa primero deberá ser descargado de **Github** en la carpeta que desee. Después deberá de configurar el archivo **.env** colocando los datos:
 
 > DB_CONNECTION=mysql
-	DB_HOST=127.0.0.1
-	DB_PORT=3306
-	DB_DATABASE=infoEmployee
-	DB_USERNAME=root
+	DB_HOST=
+	DB_PORT=
+	DB_DATABASE=
+	DB_USERNAME=
 	DB_PASSWORD=
 
 
