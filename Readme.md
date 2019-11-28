@@ -33,7 +33,7 @@ Para loggearse se necesita primero registrar con la dirección anterior seguido 
 
 ## Rutas
 
-|       Rutas        | Parametros | Función | Metodo
+|       Rutas        | Parametros | Función | Método
 |--------------------|------------|---------------|----------|
 |**/api/employees**|              |Devuelve todos los empleados registrados  | **GET** |          |
 |**/api/employee/show/{id}** |`  |Devuelve un empleado en especifico con el id | **GET** |          |
